@@ -22,3 +22,4 @@ jobs:
 
           # Cleanup
           docker compose -p waka-readme -f ./compose.yml down --rmi all
+# 2025-2
